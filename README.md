@@ -1,2 +1,2 @@
-# cikolataysa.com.tr
+# cikolataysa.atolye.site
 Sitenin kodlarının bulunduğu depo
